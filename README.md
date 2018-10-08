@@ -1,5 +1,5 @@
 # php-composer-practice
-Here is a practicing project of appling php composer. 
+Here is a practicing project of applying php composer. 
 
 ## how to include packages/files
         require 'vendor/autoload.php';
